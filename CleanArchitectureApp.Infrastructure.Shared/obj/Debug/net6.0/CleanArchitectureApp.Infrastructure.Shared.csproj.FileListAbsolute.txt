@@ -1,0 +1,17 @@
+C:\Users\asusl\OneDrive\Desktop\CleanArchitectureApp\CleanArchitectureApp.Infrastructure.Shared\obj\Debug\net6.0\CleanArchitectureApp.Infrastructure.Shared.csproj.AssemblyReference.cache
+C:\Users\asusl\OneDrive\Desktop\CleanArchitectureApp\CleanArchitectureApp.Infrastructure.Shared\obj\Debug\net6.0\CleanArchitectureApp.Infrastructure.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asusl\OneDrive\Desktop\CleanArchitectureApp\CleanArchitectureApp.Infrastructure.Shared\obj\Debug\net6.0\CleanArchitectureApp.Infrastructure.Shared.AssemblyInfoInputs.cache
+C:\Users\asusl\OneDrive\Desktop\CleanArchitectureApp\CleanArchitectureApp.Infrastructure.Shared\obj\Debug\net6.0\CleanArchitectureApp.Infrastructure.Shared.AssemblyInfo.cs
+C:\Users\asusl\OneDrive\Desktop\CleanArchitectureApp\CleanArchitectureApp.Infrastructure.Shared\obj\Debug\net6.0\CleanArchitectureApp.Infrastructure.Shared.csproj.CoreCompileInputs.cache
+C:\Users\asusl\OneDrive\Desktop\CleanArchitectureApp\CleanArchitectureApp.Infrastructure.Shared\bin\Debug\net6.0\CleanArchitectureApp.Infrastructure.Shared.deps.json
+C:\Users\asusl\OneDrive\Desktop\CleanArchitectureApp\CleanArchitectureApp.Infrastructure.Shared\bin\Debug\net6.0\CleanArchitectureApp.Infrastructure.Shared.dll
+C:\Users\asusl\OneDrive\Desktop\CleanArchitectureApp\CleanArchitectureApp.Infrastructure.Shared\bin\Debug\net6.0\CleanArchitectureApp.Infrastructure.Shared.pdb
+C:\Users\asusl\OneDrive\Desktop\CleanArchitectureApp\CleanArchitectureApp.Infrastructure.Shared\bin\Debug\net6.0\CleanArchitectureApp.Application.dll
+C:\Users\asusl\OneDrive\Desktop\CleanArchitectureApp\CleanArchitectureApp.Infrastructure.Shared\bin\Debug\net6.0\CleanArchitectureApp.Domain.dll
+C:\Users\asusl\OneDrive\Desktop\CleanArchitectureApp\CleanArchitectureApp.Infrastructure.Shared\bin\Debug\net6.0\CleanArchitectureApp.Application.pdb
+C:\Users\asusl\OneDrive\Desktop\CleanArchitectureApp\CleanArchitectureApp.Infrastructure.Shared\bin\Debug\net6.0\CleanArchitectureApp.Domain.pdb
+C:\Users\asusl\OneDrive\Desktop\CleanArchitectureApp\CleanArchitectureApp.Infrastructure.Shared\obj\Debug\net6.0\CleanArchitectureApp.Infrastructure.Shared.csproj.CopyComplete
+C:\Users\asusl\OneDrive\Desktop\CleanArchitectureApp\CleanArchitectureApp.Infrastructure.Shared\obj\Debug\net6.0\CleanArchitectureApp.Infrastructure.Shared.dll
+C:\Users\asusl\OneDrive\Desktop\CleanArchitectureApp\CleanArchitectureApp.Infrastructure.Shared\obj\Debug\net6.0\refint\CleanArchitectureApp.Infrastructure.Shared.dll
+C:\Users\asusl\OneDrive\Desktop\CleanArchitectureApp\CleanArchitectureApp.Infrastructure.Shared\obj\Debug\net6.0\CleanArchitectureApp.Infrastructure.Shared.pdb
+C:\Users\asusl\OneDrive\Desktop\CleanArchitectureApp\CleanArchitectureApp.Infrastructure.Shared\obj\Debug\net6.0\ref\CleanArchitectureApp.Infrastructure.Shared.dll

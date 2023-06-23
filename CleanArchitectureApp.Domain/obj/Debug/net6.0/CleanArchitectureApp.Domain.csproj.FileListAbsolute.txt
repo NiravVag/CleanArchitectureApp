@@ -1,0 +1,12 @@
+C:\Users\asusl\OneDrive\Desktop\CleanArchitectureApp\CleanArchitectureApp.Domain\bin\Debug\net6.0\CleanArchitectureApp.Domain.deps.json
+C:\Users\asusl\OneDrive\Desktop\CleanArchitectureApp\CleanArchitectureApp.Domain\bin\Debug\net6.0\CleanArchitectureApp.Domain.dll
+C:\Users\asusl\OneDrive\Desktop\CleanArchitectureApp\CleanArchitectureApp.Domain\bin\Debug\net6.0\CleanArchitectureApp.Domain.pdb
+C:\Users\asusl\OneDrive\Desktop\CleanArchitectureApp\CleanArchitectureApp.Domain\obj\Debug\net6.0\CleanArchitectureApp.Domain.csproj.AssemblyReference.cache
+C:\Users\asusl\OneDrive\Desktop\CleanArchitectureApp\CleanArchitectureApp.Domain\obj\Debug\net6.0\CleanArchitectureApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asusl\OneDrive\Desktop\CleanArchitectureApp\CleanArchitectureApp.Domain\obj\Debug\net6.0\CleanArchitectureApp.Domain.AssemblyInfoInputs.cache
+C:\Users\asusl\OneDrive\Desktop\CleanArchitectureApp\CleanArchitectureApp.Domain\obj\Debug\net6.0\CleanArchitectureApp.Domain.AssemblyInfo.cs
+C:\Users\asusl\OneDrive\Desktop\CleanArchitectureApp\CleanArchitectureApp.Domain\obj\Debug\net6.0\CleanArchitectureApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\asusl\OneDrive\Desktop\CleanArchitectureApp\CleanArchitectureApp.Domain\obj\Debug\net6.0\CleanArchitectureApp.Domain.dll
+C:\Users\asusl\OneDrive\Desktop\CleanArchitectureApp\CleanArchitectureApp.Domain\obj\Debug\net6.0\refint\CleanArchitectureApp.Domain.dll
+C:\Users\asusl\OneDrive\Desktop\CleanArchitectureApp\CleanArchitectureApp.Domain\obj\Debug\net6.0\CleanArchitectureApp.Domain.pdb
+C:\Users\asusl\OneDrive\Desktop\CleanArchitectureApp\CleanArchitectureApp.Domain\obj\Debug\net6.0\ref\CleanArchitectureApp.Domain.dll
